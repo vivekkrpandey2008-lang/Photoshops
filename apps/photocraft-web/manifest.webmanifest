@@ -1,0 +1,16 @@
+{
+  "id": "/",
+  "name": "PhotoCraft Mobile",
+  "short_name": "PhotoCraft",
+  "description": "Layer-based photo editing on Android and the web.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#171717",
+  "theme_color": "#171717",
+  "icons": [
+    { "src": "photocraft-icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "photocraft-icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
